@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --hot"
+    "build":"./node_modules/.bin/webpack --progress"
   },
   "author": "",
   "license": "ISC",
